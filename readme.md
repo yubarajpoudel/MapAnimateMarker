@@ -10,3 +10,5 @@ Run the app
 - Run the app 
 
 ## Output
+
+![Maker will animate when location is changed](https://github.com/yubarajpoudel/MapAnimateMarker/blob/master/device-2021-08-11-112043.png?raw=true)
